@@ -15,6 +15,8 @@ build\examples\game\Debug\game.exe
 
 the game should launch and look like this:
 ![image](https://github.com/user-attachments/assets/1c4e1b0c-3b71-44f5-b4d0-23bcdf9d4afe)
+![image](https://github.com/user-attachments/assets/142c27f5-9388-4616-8b17-23744273ed81)
+![image](https://github.com/user-attachments/assets/c4ec698f-d742-45ca-ad24-366544677566)
 
 ### controls
 `w`, `a`, `s`, `d` - player movements
