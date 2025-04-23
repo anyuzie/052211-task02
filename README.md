@@ -1,2 +1,26 @@
 # 052211-task02
-a mini game which allows people to pick up and place blocks around them.
+built using Vienna Vulkan Engine
+only contains files that are modified from the original Vienna Vulkan Engine: https://github.com/hlavacs/ViennaVulkanEngine
+to run, clone the Vienna Vulkan Engine and replace the 3 folders:
+* ViennaVulkanEngine\assets
+* ViennaVulkanEngine\examples
+* ViennaVulkanEngine\src
+
+run the following command in ViennaVulkanEngine:
+build_MVC.cmd
+cd build
+cmake --build . --config Debug
+cd ..
+build\examples\game\Debug\game.exe
+
+the game should launch and look like this:
+![image](https://github.com/user-attachments/assets/1c4e1b0c-3b71-44f5-b4d0-23bcdf9d4afe)
+
+### controls
+`w`, `a`, `s`, `d` - player movements
+`left`, `right` - rotates player to the left / right
+`spacebar` - places a cube in front of the player if any cube has been collected
+
+### gameplay
+* player can collect up to 10 cubes
+* player can also place the cubes anywhere they want
