@@ -7,10 +7,14 @@ to run, clone the Vienna Vulkan Engine and replace the 3 folders:
 * ViennaVulkanEngine\src
 
 run the following command in ViennaVulkanEngine:
-build_MVC.cmd\n
-cd build\n
-cmake --build . --config Debug\n
-cd ..\n
+build_MVC.cmd
+
+cd build
+
+cmake --build . --config Debug
+
+cd ..
+
 build\examples\game\Debug\game.exe
 
 the game should launch and look like this:
