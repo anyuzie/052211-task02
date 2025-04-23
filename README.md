@@ -25,9 +25,9 @@ the game should launch and look like this:
 ![image](https://github.com/user-attachments/assets/c4ec698f-d742-45ca-ad24-366544677566)
 
 ### controls
-`w`, `a`, `s`, `d` - player movements
-`left`, `right` - rotates player to the left / right
-`spacebar` - places a cube in front of the player if any cube has been collected
+* `w`, `a`, `s`, `d` - player movements
+* `left`, `right` - rotates player to the left / right
+* `spacebar` - places a cube in front of the player if any cube has been collected
 
 ### gameplay
 * player can collect up to 10 cubes
